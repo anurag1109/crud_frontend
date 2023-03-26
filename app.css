@@ -1,0 +1,21 @@
+#navbar{
+display: flex;
+justify-content: space-evenly;
+/* margin: 1rem; */
+padding: 2rem;
+border: 1px solid gray;
+
+}
+#home{
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+    font-size: 3rem;
+    color: rgb(107, 67, 18);
+    font-weight: bolder;
+    
+}
+#post{
+    display: flex;
+    gap: 30px;
+}
